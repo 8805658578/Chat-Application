@@ -31,7 +31,7 @@ Frontend:
 
 Database:
 
-- MySQL
+- MongoDB
 
 ---
 
