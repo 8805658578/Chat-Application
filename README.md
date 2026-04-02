@@ -61,18 +61,6 @@ Database:
 
 ---
 
-📸 Screenshots
-
-(Add your project screenshots here)
-
----
-
-🔗 Live Demo
-
-(Add your deployed project link here)
-
----
-
 💡 Future Improvements
 
 - Add user authentication (Login/Register)
